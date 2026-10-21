@@ -22,7 +22,7 @@ public class LessonsLearned {
 	public static final int DESCRIPTION_MIN = 20;
 	public static final int DESCRIPTION_MAX = 2000;
 	public static final int MODULE_MIN = 1;
-	public static final int MODULE_MAX = 20; // adjust to your course's module count
+	public static final int MODULE_MAX = 20; // adjust if necessary
 
 	// ----- Instance fields -----
 	private int id;                 // assigned by the database, 0 = not yet saved
